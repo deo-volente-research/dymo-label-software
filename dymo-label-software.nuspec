@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>dymo-label-software</id>
+     <version>1.0</version>
+    <title>dymo-label-software (Install)</title>
+    <authors>Dymo</authors>
+    <projectUrl>https://github.com/deo-volente-research/dymo-label-software</projectUrl>
+    <tags>dymo dymo-label dymo-software</tags>
+    <description>Package to install DYMO Label software 8.7.4</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
